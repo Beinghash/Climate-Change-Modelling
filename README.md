@@ -123,7 +123,7 @@ This project combines **tabular time-series data** (NASA’s historical global t
 
 > **Screenshot:** 
 
-![Customer Satisfaction UI Preview](page_preview.png)
+![Customer Satisfaction UI Preview](page_preview1.png)
 
 
 ![Customer Satisfaction UI Preview](page_preview2.png)
